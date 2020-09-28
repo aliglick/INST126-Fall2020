@@ -21,6 +21,9 @@ The purpose of my project is to create a basic calculator, creating functions on
  
  ## Output
  After running the code, the user should be able to see something along the lines of this:
- ![alt tag](https://github.com/aliglick/INST126-Fall2020/issues/1#issue-709905444)
+
+![alt tag](https://github.com/aliglick/INST126-Fall2020/issues/1#issue-709905444)
 
 ## GUI Image
+
+
