@@ -26,4 +26,6 @@ The purpose of my project is to create a basic calculator, creating functions on
 
 ## GUI Image
 
+![alt tag](https://github.com/aliglick/INST126-Fall2020/issues/2#issue-709906234)
+
 
