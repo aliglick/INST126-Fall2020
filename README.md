@@ -17,7 +17,7 @@ The purpose of my project is to create a basic calculator, creating functions on
   c. if multiplication is chosen, the two values will be mulitplied by each other in no particular order.
   d. if division is chosen, the second value will be divided by the first value.
   
- 6. If an invalid operation is inputed by the user, he or she will be repeatedly be asked to input an operation until it is valid.
+6. If an invalid operation is inputed by the user, he or she will be repeatedly be asked to input an operation until it is valid.
  
  ## Output
  After running the code, the user should be able to see something along the lines of this:
