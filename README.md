@@ -13,9 +13,13 @@ The purpose of my project is to create a basic calculator, creating functions on
 
 5. The following operations will then be performed:
   a. If addition is chosen, the two values will be added in no particular order.
+  
   b. If subtraction is chosen, value two will be subtracted from value one.
+  
   c. If multiplication is chosen, the two values will be mulitplied by each other in no particular order.
+  
   d. If division is chosen, the second value will be divided by the first value.
+  
   e. If exponent is chosen, the first value will be to the power of the second value.
   
 6. If an invalid operation is inputed by the user, he or she will be repeatedly be asked to input an operation until it is valid.
