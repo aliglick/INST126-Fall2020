@@ -12,15 +12,16 @@ The purpose of my project is to create a basic calculator, creating functions on
 4. Then, whichever operation is chosen, the user will be asked to input two values to either be added, subtracted, mulitplied, divided, or to the exponent respectively.
 
 5. The following operations will then be performed:
-  a. If addition is chosen, the two values will be added in no particular order.
+
+    a. If addition is chosen, the two values will be added in no particular order.
   
-  b. If subtraction is chosen, value two will be subtracted from value one.
+    b. If subtraction is chosen, value two will be subtracted from value one.
   
-  c. If multiplication is chosen, the two values will be mulitplied by each other in no particular order.
+    c. If multiplication is chosen, the two values will be mulitplied by each other in no particular order.
   
-  d. If division is chosen, the second value will be divided by the first value.
+    d. If division is chosen, the second value will be divided by the first value.
   
-  e. If exponent is chosen, the first value will be to the power of the second value.
+    e. If exponent is chosen, the first value will be to the power of the second value.
   
 6. If an invalid operation is inputed by the user, he or she will be repeatedly be asked to input an operation until it is valid.
  
