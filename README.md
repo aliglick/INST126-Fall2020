@@ -17,7 +17,7 @@ The purpose of my project is to create a basic calculator, creating functions on
   
     b. If subtraction is chosen, value two will be subtracted from value one.
   
-    c. If multiplication is chosen, the two values will be mulitplied by each other in no particular order.
+    c. If multiplication is chosen, the two values will be multiplied by each other in no particular order.
   
     d. If division is chosen, the second value will be divided by the first value.
   
