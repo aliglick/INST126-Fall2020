@@ -16,6 +16,7 @@ The purpose of my project is to implement a simple hangman game, with only 10 gu
     c. "Number of guesses remaining : 10"
     
 3. Thirdly, the user will be asked to please enter a letter
+
     a. If the letter is not in the secret word, then letter will be added to the lettersGuessed list, the number of guesses will go down by one, and the user will be asked to guess another letter.
     
     b. If the letter is in the secret word, then the letter will replace the dashed line in the correct position, the number of guesses will go down by one, and the user will still be asked to guess another letter!
