@@ -24,3 +24,7 @@ The purpose of my project is to implement a simple hangman game, with only 10 gu
 4. If the user guesses the secret word before he/she has used up his/her 10 tries, then the following will be recited on the screen: "Congratulations! You guessed the correct word!"
 
 5. If the user does not guess the word and his/her 10 tries are up, then the following statement will be recited on the screen: "You lose. The secret word is ______ ."
+
+## How My Hangman Function Works:
+
+1. 
