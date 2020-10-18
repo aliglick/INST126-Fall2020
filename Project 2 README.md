@@ -25,6 +25,6 @@ The purpose of my project is to implement a simple hangman game, with only 10 gu
 
 5. If the user does not guess the word and his/her 10 tries are up, then the following statement will be recited on the screen: "You lose. The secret word is ______ ."
 
-## How My Hangman Function Works:
+## How My Hangman Decryption Works:
 
 1. 
