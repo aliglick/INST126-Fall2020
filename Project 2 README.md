@@ -1,2 +1,2 @@
-# INST126-Fall2020
-All projects
+# Project 2 : The Hangman Game
+
