@@ -11,7 +11,7 @@ The purpose of my project is to implement a simple hangman game, with only 10 gu
 
     a. "Welcome to the Hangman Game!"
     
-    b. "The secret word is - - - -" <-- the dashes will vary depending on how long the secret word is
+    b. "The secret word is - - - -" (The dashes will vary depending on how long the secret word is)
     
     c. "Number of guesses remaining : 10"
     
