@@ -27,4 +27,4 @@ The purpose of my project is to implement a simple hangman game, with only 10 gu
 
 ## How My Decryption Function Works:
 
-1. 
+The decrpytion function simply takes the secret word, which is encrypted, when guessed correctly and decodes it into plaintext.
