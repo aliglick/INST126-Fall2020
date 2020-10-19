@@ -21,7 +21,7 @@ The purpose of my project is to implement a simple hangman game, with only 10 gu
     
     b. If the letter is in the secret word, then the letter will replace the dashed line in the correct position, the number of guesses will go down by one, and the user will still be asked to guess another letter!
     
-4. If the user guesses the secret word before he/she has used up his/her 10 tries, then the following will be recited on the screen: "Congratulations! You guessed the correct word!" and the decoded message will be revealed.
+4. If the user guesses the secret word before he/she has used up his/her 10 tries, then the following will be recited on the screen: "Congratulations! You guessed the correct word!" and the decoded message will be revealed through the use of the decryption function.
 
 5. If the user does not guess the word and his/her 10 tries are up, then the following statement will be recited on the screen: "You lose. The secret word is ______ ."
 
